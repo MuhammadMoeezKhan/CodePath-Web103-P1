@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿 👉🏿 **[GIF WALKTHROUGH RECORDING](https://imgur.com/Hj006PS.gif)**
+**[Video Walkthrough](https://imgur.com/Hj006PS.gif)**
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
