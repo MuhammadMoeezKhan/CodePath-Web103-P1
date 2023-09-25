@@ -1,11 +1,9 @@
-/* Root Styles CSS */
 :root {
   background-color: white;
   font-family: Avenir, Helvetica, sans-serif;
   color: black;
 }
 
-/* Header CSS */
 .header-container {
   overflow: hidden;
   padding: 20px 10px;
@@ -133,8 +131,6 @@ main {
   from {box-shadow: inset -3px 0px 0px #888;}
   to {box-shadow: inset -3px 0px 0px transparent;}
 }
-
-/* Detail Page CSS*/
 
 .car-info {
   display: flex;
